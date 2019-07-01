@@ -14,7 +14,7 @@ Missies zijn richtinggevend voor het opstellen van innovatieagenda. Daarmee zijn
 Het innovatieproces is het proces dat SSC-ICT team innovatie doorloopt van het genereren van een idee tot het implementeren van een innovatie. Het innovatieproces onderscheid een viertal fasen, namelijk ideation, concepting, proof of concept en haalbaarheid.
 
 
-![innovate proces(https://ssc-ict-innovatie.nlover/Innovatie_proces_2.svg)
+![innovate proces(https://ssc-ict-innovatie.nl/over/Innovatie_proces_2.svg)
 
 
 ### Samenwerken
