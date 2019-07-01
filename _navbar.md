@@ -1,8 +1,8 @@
 <!-- _navbar.md -->
 
 * [Home](/)
-* [News](/news/README.md "Our latest news headlines")
-* [About](/about/README.md "About our organisation")
-* [Contact](/contact/README.md "Contact information")
-* [Mission](/mission/README.md "Our mission statement")
-* [Outlook](/outlook_2019/README.md "Our outlook. Where are we going in 2019")
+* [Nieuws](/nieuws/README.md "Onze nieuws updates")
+* [Concepten](/concepten/README.md "Onze innovatieve concepten")
+* [Projecten](/contact/README.md "Onze innovatie projecten")
+* [Over](/over/README.md "Over het SSC-ICT innovatie team")
+* [Contact](/contact/README.md "Hoe kun je ons bereiken?")
