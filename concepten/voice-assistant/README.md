@@ -26,13 +26,13 @@ Met het ontsluiten van de geisoleeerde informatie via een voice assistent bijdra
 
 * 30-05: [Voorstel](voorstel-digibeter2019-challlenge.md) voor DigiBeter2019 [innovatie challenge](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/innovatie/innovatiebudget/challenges/) ingediend.
 * 29-05: [Eten bestellen via Thuisbezorgd met behulp van de Google Assistent](https://www.nu.nl/gadgets/5913870/thuisbezorgd-laat-klanten-eten-bestellen-met-google-assistent.html)
-* 10-04: Motivatie om *geen* gebruik te maken van Google Assistant en Google Home in de toekomst is vanwege de [reclame boodschappen](https://www.nu.nl/internet/5831655/google-voegt-advertenties-toe-aan-stemassistent.html) die er straks er door heen kunnen gaan komen. 
+* 10-04: Motivatie om *geen* gebruik te maken van Google Assistant en Google Home in de toekomst is vanwege de [reclame boodschappen](https://www.nu.nl/internet/5831655/google-voegt-advertenties-toe-aan-stemassistent.html) die er straks er door heen kunnen gaan komen.
 
 
 #### Concept ontwikkeling
 - [KanBan board](https://github.com/SSC-ICT-Innovatie/ssc-ict-innovatie.nl/projects/2)
 
 ### 2018
-Op het moment heeft aleen Google Home een ondersteuning voor de Nederlandse taal (in BETA). Daarom gaan we de eerste prototype bouwen boven op [DialogFlow](https://dialogflow.com) en met [Actions](https://developers.google.com/actions/) met dit Smart Home [voorbeeld in Node.js](https://github.com/vgevers/smart-home-nodejs). Het voorbeeld is hier [gebouwd](https://ssc-ict-innovatie.slack.com/messages/CDJA596DQ). 
+Op het moment heeft aleen Google Home een ondersteuning voor de Nederlandse taal (in BETA). Daarom gaan we de eerste prototype bouwen boven op [DialogFlow](https://dialogflow.com) en met [Actions](https://developers.google.com/actions/) met dit Smart Home [voorbeeld in Node.js](https://github.com/vgevers/smart-home-nodejs). Het voorbeeld is hier [gebouwd](https://ssc-ict-innovatie.slack.com/messages/CDJA596DQ).
 
 Open source project [MyCroft](https://community.mycroft.ai/t/how-to-get-mycroft-to-speak-and-understand-dutch/4963) maakt gebruik van Google services voor een Nederlandse taal ondersteuning. De [On Premise](https://mycroft.ai/enterprise/) Enterprise oplossing heeft nog geen eigen ondesteuning voor de Nederlandse taal. Het bedrijf [AmberScript](https://www.amberscript.com/nl/home#we-are-revolutionizing-transcription-services) heeft Nederlandse spraakherkenning voor het transcriberen van Nederlands gesproken geluidsopnames naar tekst en draaien deze services op hun eigen servers.

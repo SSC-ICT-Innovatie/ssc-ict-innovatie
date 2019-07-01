@@ -2,10 +2,14 @@
 
 ## 2019
 
- * [Voice assistant](https://github.com/SSC-ICT-Innovatie/ssc-ict-innovatie.nl/tree/master/concepten/voice-assistant) - [KanBan board](https://github.com/SSC-ICT-Innovatie/ssc-ict-innovatie.nl/projects/2)
+* [LiFi](/concepten/lifi/README.md "LiFi")
+* [Rijkschat](/concepten/rijkschat/README.md "Rijkcchat")
+* [Rijksgithub](/concepten/rijksgithub/README.md "Rijksgithub")
+* [Smartbuilding](/concepten/smartbuidling/README.md "Smart building")
+* [Voice assistant](/concepten/voice-assistant/README.md "Voice assistant")
 
 
 ## 2018
+[![Double telepresence robot running on RasPi 3 and MyCroft AI ](http://img.youtube.com/vi/a_iK5nGr4y4/0.jpg)](http://www.youtube.com/watch?v=a_iK5nGr4y4 "Double telepresence robot running on RasPi 3 and MyCroft AI ")
 
-* Double telepresence robot running on RasPi 3 and MyCroft AI - [video](https://www.youtube.com/watch?v=a_iK5nGr4y4).
-* Facial recognition test with OpenCV -[video](https://www.youtube.com/watch?v=d4_TjZ5wRGg).
+[![Facial recognition test with OpenCV](http://img.youtube.com/vi/d4_TjZ5wRGg/0.jpg)](http://www.youtube.com/watch?v=d4_TjZ5wRGg "Facial recognition test with OpenCV")
