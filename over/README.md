@@ -1,7 +1,12 @@
 
 # Over ons
 
-## Het innovatie team
+Het innovatie team van SSC-ICT innoveert voor, maar vooral ook samen mét de diverse departementen.
+Samenwerken en verbinden zijn sleutelwoorden om de Rijksoverheid innovatiever te maken en er wordt volop geïnnoveerd.
+Er lopen veel projecten en initiatieven op het gebied van innovatie. Binnen alle ministeries zijn innovatieteams bezig met experimenten en pilots voor onderwerpen zoals kunstmatige intelligentie (AI), smart buildings en duurzaamheid. Dit zijn positieve ontwikkelingen en hier draagt het SSC-ICT team graag aan mee. We bieden een unieke combinatie van kennis (expertise) en daadwerkelijk werkende concepten
+
+
+## Ons team
 * [Ramon Fiedler](https://www.linkedin.com/in/ramon-fiedler-91225613/)
 * [Victor Gevers](https://www.linkedin.com/in/vgevers/)
 * [Ilias Amjahid](https://www.linkedin.com/in/ilias-amjahid-1407a4162/)
@@ -14,8 +19,9 @@ Missies zijn richtinggevend voor het opstellen van innovatieagenda. Daarmee zijn
 Het innovatieproces is het proces dat SSC-ICT team innovatie doorloopt van het genereren van een idee tot het implementeren van een innovatie. Het innovatieproces onderscheid een viertal fasen, namelijk ideation, concepting, proof of concept en haalbaarheid.
 
 
-![innovate proces(https://ssc-ict-innovatie.nl/over/Innovatie_proces_2.svg)
-
+![innovate proces 1](https://ssc-ict-innovatie.nl/over/Innovatie_proces_1.svg)
+![innovate proces 2](https://ssc-ict-innovatie.nl/over/Innovatie_proces_2.svg)
+![innovate proces 3](https://ssc-ict-innovatie.nl/over/Innovatie_proces 3.svg)
 
 ### Samenwerken
 * BZK/VNG: Technische realisatie in het project [Keteninformatie](https://rijksgithub.nl/SSC-ICT-Innovatie/Keteninformatie) gaat in 2019 verder onder de naam [Inzicht in beleid](https://trello.com/c/Rduqoqny/5-inzicht-in-beleid)
