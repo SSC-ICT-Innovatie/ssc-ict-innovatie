@@ -1,8 +1,7 @@
-[Home](/) | [Nieuws](/nieuws) | [Projecten](/projecten) | [Over](/over)
 
 # Projecten
 
-Alle onze innovatie projecten lopen via het [innovatie proces](). 
+Alle onze innovatie projecten lopen via het [innovatie proces]().
 De projecten die nog niet publiek gedeeld kunnen worden zijn terug te vinden op de [Rijksgithub](https://rijksgithub.nl).
 
 ## Projecten 2019

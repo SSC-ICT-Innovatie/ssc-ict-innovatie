@@ -1,5 +1,3 @@
-[Home](/) | [Nieuws](/nieuws/) | [Projecten](/projecten/) | [Over](/over/) 
-
 # Concepten
 
 ## 2019
