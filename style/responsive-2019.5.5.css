@@ -18017,4 +18017,5 @@ nav.anchorNav ul li:last-child {
 /* Rounded images like in LinkedIn */
 .img-circle {
  border-radius: 50%;
+ height: 100px;
 }
