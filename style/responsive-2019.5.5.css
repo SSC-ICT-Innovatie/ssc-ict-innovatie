@@ -18014,3 +18014,7 @@ nav.anchorNav ul li:last-child {
 .app-nav ul {
  float: right;
 }
+/* Rounded images like in LinkedIn */
+.img-circle {
+ border-radius: 50%;
+}
