@@ -35,6 +35,7 @@ Het innovatieproces is het proces dat SSC-ICT team innovatie doorloopt van het g
 
 
 ### Samenwerkingen
+
 * BZK/VNG: Technische realisatie in het project [Keteninformatie](https://rijksgithub.nl/SSC-ICT-Innovatie/Keteninformatie) gaat in 2019 verder onder de naam [Inzicht in beleid](https://trello.com/c/Rduqoqny/5-inzicht-in-beleid)
 * EZK: Adviserende rol in de tot standkoming van het [Digital Trust Platform](https://www.digitaltrustcenter.nl/actueel)
 * JenV: Technische realisatie in het project [On-The-Move](https://on-the-move.ml) gaat in 2019 verder als [Rijkschat](https://trello.com/c/iXaCpReF/6-rijkschat) >> [Project on Github](https://github.com/orgs/SSC-ICT-Innovatie/projects/3)
