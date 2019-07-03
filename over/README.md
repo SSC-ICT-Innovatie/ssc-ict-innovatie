@@ -9,15 +9,15 @@ Er lopen veel projecten en initiatieven op het gebied van innovatie. Binnen alle
 
 ## Ons team
 
-<img class="img-circle" src="/over/Ramon_Fiedler.jpg" style="width:100px" />
+<img class="img-circle" src="/over/Ramon_Fiedler.jpg" />
 
 *[Ramon Fiedler](https://www.linkedin.com/in/ramon-fiedler-91225613/)
 
-<img class="img-circle" src="/over/Victor_Gevers.jpg" style="width:100px" />
+<img class="img-circle" src="/over/Victor_Gevers.jpg" />
 
 *[Victor Gevers](https://www.linkedin.com/in/vgevers/)
 
-<img class="img-circle" src="/over/Illias.jpg" style="width:100px;"/>
+<img class="img-circle" src="/over/Illias.jpg" />
 
 *[Ilias Amjahid](https://www.linkedin.com/in/ilias-amjahid-1407a4162/)
 
