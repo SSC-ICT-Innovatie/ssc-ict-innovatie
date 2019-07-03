@@ -5,23 +5,10 @@ Het innovatie team van SSC-ICT innoveert voor, maar vooral ook samen mét de div
 Samenwerken en verbinden zijn sleutelwoorden om de Rijksoverheid innovatiever te maken en er wordt volop geïnnoveerd.
 Er lopen veel projecten en initiatieven op het gebied van innovatie. Binnen alle ministeries zijn innovatieteams bezig met experimenten en pilots voor onderwerpen zoals kunstmatige intelligentie (AI), smart buildings en duurzaamheid. Dit zijn positieve ontwikkelingen en hier draagt het SSC-ICT team graag aan mee. We bieden een unieke combinatie van kennis (expertise) en daadwerkelijk werkende concepten
 
-
-
 ## Ons team
-
-<img class="img-circle" src="/over/Ramon_Fiedler.jpg" />
-
-*[Ramon Fiedler](https://www.linkedin.com/in/ramon-fiedler-91225613/)
-
-<img class="img-circle" src="/over/Victor_Gevers.jpg" />
-
-*[Victor Gevers](https://www.linkedin.com/in/vgevers/)
-
-<img class="img-circle" src="/over/Illias.jpg" />
-
-*[Ilias Amjahid](https://www.linkedin.com/in/ilias-amjahid-1407a4162/)
-
-
+<img class="img-circle" src="/over/Ramon_Fiedler.jpg" /> [Ramon Fiedler](https://www.linkedin.com/in/ramon-fiedler-91225613/)
+<img class="img-circle" src="/over/Victor_Gevers.jpg" /> [Victor Gevers](https://www.linkedin.com/in/vgevers/)
+<img class="img-circle" src="/over/Illias.jpg" /> [Ilias Amjahid](https://www.linkedin.com/in/ilias-amjahid-1407a4162/)
 
 ## Open innovatie
 Missies zijn richtinggevend voor het opstellen van innovatieagenda. Daarmee zijn niet langer sectoren, maar maatschappelijke uitdagingen en sleuteltechnologieën het uitgangspunt van de agenda. Daarbij wordt ingezet op sector overstijgende samenwerking en is openheid van het proces om tot kennis-en innovatieagenda te komen cruciaal. Voor de grote maatschappelijke uitdagingen zijn immers baanbrekende vernieuwingen noodzakelijk. Dit vraagt ook om de betrokkenheid van nieuwe partijen. Door een open proces te organiseren, betrekken we partijen die voorheen niet vanzelf deelnamen. Dat biedt kansen aan ieder, en benut bovenal de creativiteit door nieuwe inbreng. Dit is de reden waarom het SSC-ICT innovatie team een open [innovatie agenda](/themas/README?id=themas) voert.
