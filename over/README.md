@@ -1,10 +1,3 @@
-
-# Over ons
-![innovate proces 1](https://ssc-ict-innovatie.nl/over/Innovatie_proces_1.svg)
-Het innovatie team van SSC-ICT innoveert voor, maar vooral ook samen mét de diverse departementen.
-Samenwerken en verbinden zijn sleutelwoorden om de Rijksoverheid innovatiever te maken en er wordt volop geïnnoveerd.
-Er lopen veel projecten en initiatieven op het gebied van innovatie. Binnen alle ministeries zijn innovatieteams bezig met experimenten en pilots voor onderwerpen zoals kunstmatige intelligentie (AI), smart buildings en duurzaamheid. Dit zijn positieve ontwikkelingen en hier draagt het SSC-ICT team graag aan mee. We bieden een unieke combinatie van kennis (expertise) en daadwerkelijk werkende concepten
-
 ## Ons team
 
 <div style="float:left; width:120px; height: 110px;">
@@ -23,6 +16,13 @@ Er lopen veel projecten en initiatieven op het gebied van innovatie. Binnen alle
 </div>
 
 <br /><br /><br /><br /><br />
+
+
+# Over ons
+![innovate proces 1](https://ssc-ict-innovatie.nl/over/Innovatie_proces_1.svg)
+Het innovatie team van SSC-ICT innoveert voor, maar vooral ook samen mét de diverse departementen.
+Samenwerken en verbinden zijn sleutelwoorden om de Rijksoverheid innovatiever te maken en er wordt volop geïnnoveerd.
+Er lopen veel projecten en initiatieven op het gebied van innovatie. Binnen alle ministeries zijn innovatieteams bezig met experimenten en pilots voor onderwerpen zoals kunstmatige intelligentie (AI), smart buildings en duurzaamheid. Dit zijn positieve ontwikkelingen en hier draagt het SSC-ICT team graag aan mee. We bieden een unieke combinatie van kennis (expertise) en daadwerkelijk werkende concepten
 
 
 ## Open innovatie
