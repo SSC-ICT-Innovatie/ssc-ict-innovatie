@@ -9,17 +9,18 @@ Er lopen veel projecten en initiatieven op het gebied van innovatie. Binnen alle
 
 ## Ons team
 
-<img class="img-circle" src="/over/Ramon_Fiedler.jpg" />
+<img class="img-circle" src="/over/Ramon_Fiedler.jpg" style="width:100px" />
 
-*[Ramon Fiedler](https://www.linkedin.com/in/ramon-fiedler-91225613/)*
+*[Ramon Fiedler](https://www.linkedin.com/in/ramon-fiedler-91225613/)
 
-<img class="img-circle" src="/over/Victor_Gevers.jpg" />
+<img class="img-circle" src="/over/Victor_Gevers.jpg" style="width:100px" />
 
-*[Victor Gevers](https://www.linkedin.com/in/vgevers/)*
+*[Victor Gevers](https://www.linkedin.com/in/vgevers/)
 
-<img class="img-circle" src="/over/Illias.jpg" />
+<img class="img-circle" src="/over/Illias.jpg" style="width:100px;"/>
 
-*[Ilias Amjahid](https://www.linkedin.com/in/ilias-amjahid-1407a4162/)*
+*[Ilias Amjahid](https://www.linkedin.com/in/ilias-amjahid-1407a4162/)
+
 
 
 ## Open innovatie
