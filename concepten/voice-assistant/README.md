@@ -19,11 +19,12 @@ Met het ontsluiten van de geisoleeerde informatie via een voice assistent bijdra
    b. Gebruikers feedback ophalen op deze manier van informatie aanbieden en deze wijze van interactie
  2. Opdoen van ideeen voor meer usecases.
 
-## Technologische verkenning.
+## Technologische verkenning
 
 
 ### 2019
 
+* 07-07: [Voorstel](voorstel-digibeter2019-challlenge.md) voor DigiBeter2019 [innovatie challenge] is [afgewezen](https://trello.com/c/DSMZMxvS/3-het-nieuwe-werken#comment-5d231ef5a0ab05474f051fce)
 * 30-05: [Voorstel](voorstel-digibeter2019-challlenge.md) voor DigiBeter2019 [innovatie challenge](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/innovatie/innovatiebudget/challenges/) ingediend.
 * 29-05: [Eten bestellen via Thuisbezorgd met behulp van de Google Assistent](https://www.nu.nl/gadgets/5913870/thuisbezorgd-laat-klanten-eten-bestellen-met-google-assistent.html)
 * 10-04: Motivatie om *geen* gebruik te maken van Google Assistant en Google Home in de toekomst is vanwege de [reclame boodschappen](https://www.nu.nl/internet/5831655/google-voegt-advertenties-toe-aan-stemassistent.html) die er straks er door heen kunnen gaan komen.
