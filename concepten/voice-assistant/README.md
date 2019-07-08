@@ -1,4 +1,4 @@
-# Voice assistent
+# Voice assistant
 Voice control is sterk in opkomst. Dat is op zich geen nieuws, want digitale assistenten als Siri bestaan al jaren. Toch begint het kantoorgebruik van stemtechnologie nu pas echt door te breken. Hier in Nederland is het nog even afwachten, maar er is absoluut geen reden om stil te zitten. Wat kunnen wij met deze voice assistants wanneer ze de [Nederlandse taal](https://www.smarthomemagazine.nl/2018/07/nederlandse-google-assistant-home/) gaan beheersen?
 
 ## Aanleiding
