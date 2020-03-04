@@ -1,9 +1,6 @@
 <!-- _navbar.md -->
 
 * [Home](/)
-* [Actueel]()
-  * [Nieuws](/nieuws/README.md "Onze nieuws updates")
-  * [Kalender](/kalender/README.md "Innovatieve activiteiten waar we aan deelnemen")
 * [Innovatie]()
   * [Thema's](/themas/README.md "Innovatie thema's")
   * [Concepten](/concepten/README.md "Onze innovatieve concepten")
