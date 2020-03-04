@@ -1,7 +1,9 @@
 # Concepten
 
-## 2019
+## 2020
+* [Het Nieuwe² Werken](https://hnnw.nl)
 
+## 2019
 * [LiFi](/concepten/lifi/README.md "LiFi")
 * [Rijkschat](/concepten/rijkschat/README.md "Rijkcchat")
 * [Rijksgithub](/concepten/rijksgithub/README.md "Rijksgithub")
