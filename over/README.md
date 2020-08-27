@@ -11,8 +11,8 @@
 </div>
 
 <div style="float:left; width:120px; height: 110px;">
-<img class="img-circle" src="/over/nick.jpg" />
-<a href="https://www.linkedin.com/in/nick-verheijen/">Nick Verheijen</a>
+<img class="img-circle" src="/over/remco-van-gorsel.jpg" />
+<a href="https://www.linkedin.com/in/remco-van-gorsel-15bb70142/">Remco van Gorsel</a>
 </div>
 
 <br /><br /><br /><br /><br />
