@@ -20,7 +20,7 @@
 
 
 # Over ons
-![innovate proces 1](https://ssc-ict-innovatie.nl/over/Innovatie_proces_1.svg)
+![innovate proces 1](/over/Innovatie_proces_1.svg)
 Het innovatie team van SSC-ICT innoveert voor, maar vooral ook samen mét de diverse departementen.
 Samenwerken en verbinden zijn sleutelwoorden om de Rijksoverheid innovatiever te maken en er wordt dan ook volop geïnnoveerd.
 Er lopen veel projecten en initiatieven op het gebied van innovatie. Binnen alle ministeries zijn innovatieteams bezig met experimenten en pilots voor onderwerpen zoals kunstmatige intelligentie (AI), smart buildings en duurzaamheid. Dit zijn positieve ontwikkelingen en hier draagt het SSC-ICT team graag aan bij. We bieden een unieke combinatie van kennis (expertise) en daadwerkelijk werkende concepten.
@@ -31,7 +31,7 @@ Missies zijn richtinggevend voor het opstellen van ons innovatieagenda. Daarmee 
 
 
 ### Innovatie proces
-![innovate proces 2](https://ssc-ict-innovatie.nl/over/Innovatie_proces_2.svg)
+![innovate proces 2](/over/Innovatie_proces_2.svg)
 Het innovatieproces is het proces dat SSC-ICT team innovatie doorloopt. Dit proces begint bij het genereren van een idee en loopt door tot het implementeren van een innovatie. Het innovatieproces onderscheid een viertal fasen: ideation, concepting, proof of concept en haalbaarheid/business case.
 
 
