@@ -1,5 +1,4 @@
-#Rijksgithub.nl
-
+# Rijksgithub.nl
 
 ## Wat kun je met RijksGithub
 Je kunt er bijvoorbeeld code hosten, projecten managen en software bouwen (binnnen je eigen team afdeling, team, organisatie, alleen binnen de (Rijks)overheid en publiekelijk.
@@ -12,9 +11,10 @@ Dit budget biedt overheidsorganisaties de kans om in samenwerking met marktparti
 Bron: [Innovatiebudget](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/innovatie/innovatiebudget/challenges/)
 
 ### Huidige status
-* De Proof of Concept periode loopt t/m 31 mei 2019
-* RijksGithub as a Social Creation Platform als challenge via [Innovatiebudget](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/innovatie/innovatiebudget/challenges/) op 31 mei 2019
+* ~~De Proof of Concept periode loopt t/m 31 mei 2019~~
+* ~~RijksGithub as a Social Creation Platform als challenge via [Innovatiebudget](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/innovatie/innovatiebudget/challenges/) op 31 mei 2019~~
 
+2021: Het project zal opnieuw opgestart gaan worden met een nieuwe opdrachtgever en opdrachtnemer.
 
 
 
